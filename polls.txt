@@ -1,0 +1,407 @@
+1. What is the purpose of the `pandas` library in Python?
+- Data manipulation
+- Machine learning
+- Web scraping
+- Neural network training
+
+2. What does the `numpy` function `np.array()` create?
+- A DataFrame
+- A list
+- An array
+- A matrix plot
+
+3. What is `BeautifulSoup` commonly used for?
+- Data analysis
+- Web scraping
+- Machine learning
+- Statistical analysis
+
+4. Which function in `matplotlib` is used to create a line plot?
+- `plt.bar()`
+- `plt.scatter()`
+- `plt.plot()`
+- `plt.hist()`
+
+5. What does the `seaborn` library primarily provide?
+- Interactive dashboards
+- Advanced data visualization
+- Neural network models
+- Web scraping utilities
+
+6. What is `Dash` used for in Python?
+- Data cleaning
+- Interactive web applications
+- Numerical computations
+- Machine learning model training
+
+7. How can `Plotly` be described?
+- A statistical analysis tool
+- A library for interactive plotting
+- A database management system
+- A data preprocessing library
+
+8. What is the primary function of `TensorFlow`?
+- Data visualization
+- Machine learning and deep learning
+- Web scraping
+- Data manipulation
+
+9. What type of object does `pandas`' `read_csv()` function return?
+- A list
+- A dictionary
+- A DataFrame
+- An array
+
+10. What does the `numpy` function `np.dot()` compute?
+- Element-wise multiplication
+- Matrix multiplication
+- Statistical correlation
+- Data aggregation
+
+11. In which scenario would you use `Selenium`?
+- Building machine learning models
+- Creating interactive visualizations
+- Automating web interactions
+- Performing statistical analysis
+
+12. Which plot best visualizes a single variable's distribution in 'matplotlib'?
+- Scatter plot
+- Bar chart
+- Histogram
+- Line plot
+
+13. What is the main advantage of using `seaborn` over `matplotlib`?
+- Better for statistical plots
+- Faster data processing
+- More web scraping capabilities
+- Easier machine learning integration
+
+14. What kind of applications can you build with `Dash`?
+- Web scraping scripts
+- Machine learning models
+- Interactive dashboards
+- Statistical analysis tools
+
+15. Which TensorFlow component defines and trains neural networks?
+- `tf.data`
+- `tf.keras`
+- `tf.summary`
+- `tf.metrics`
+
+16. What is the result of `len("Hello World")` in Python?
+- 11
+- 10
+- 12
+- 9
+
+17. How do you declare a list in Python?
+- `list = {1, 2, 3}`
+- `list = (1, 2, 3)`
+- `list = [1, 2, 3]`
+- `list = 1, 2, 3`
+
+18. What is the output of `print(type(5))` in Python?
+- `<class 'float'>`
+- `<class 'int'>`
+- `<class 'str'>`
+- `<class 'list'>`
+
+19. How do you create a function in Python?
+- `def function_name[]:`
+- `function function_name():`
+- `def function_name():`
+- `function_name() {}`
+
+20. How do you access the third element of a list `my_list` in Python?
+- `my_list[2]`
+- `my_list(2)`
+- `my_list{2}`
+- `my_list[3]`
+
+21. What is the correct syntax to open a file for reading in Python?
+- `open('file.txt', 'r')`
+- `open('file.txt', 'write')`
+- `open('file.txt', 'read')`
+- `file.open('file.txt', 'r')`
+
+22. How do you handle exceptions in Python?
+- `try...except`
+- `catch...error`
+- `handle...exception`
+- `try...catch`
+
+23. What is the result of `2 ** 3` in Python?
+- 8
+- 6
+- 9
+- 7
+
+24. How do you define a class in Python?
+- `class ClassName:`
+- `def ClassName:`
+- `class ClassName()`
+- `class ClassName {}`
+
+25. What is the output of `[x for x in range(3)]` in Python?
+- `[0, 1, 2]`
+- `[1, 2, 3]`
+- `[1, 2]`
+- `[0, 1, 2, 3]`
+
+26. How do you concatenate two strings in Python?
+- `string1 + string2`
+- `string1 - string2`
+- `string1 * string2`
+- `string1 & string2`
+
+27. How can you convert a string to an integer in Python?
+- `int(string)`
+- `str(string)`
+- `float(string)`
+- `convert(string)`
+
+28. How do you define a neural network model in `Keras`?
+- `keras.Model()`
+- `keras.Sequential()`
+- `keras.Network()`
+- `keras.create_model()`
+
+29. Which function in `PyTorch` is used to create a tensor?
+- `torch.tensor()`
+- `torch.array()`
+- `torch.create()`
+- `torch.new()`
+
+30. What is `PyTorch` primarily known for?
+- neural network training
+- Data manipulation
+- Data visualization
+- Web scraping
+
+31. How can you perform hyperparameter tuning in `Scikit-learn`?
+- `GridSearchCV`
+- `HyperParameterTuner`
+- `ParameterOptimizer`
+- `TuningTool`
+
+32. What is the purpose of `ML-Flow` in machine learning projects?
+- Experiment tracking and model management
+- Data visualization
+- Web scraping
+- Model deployment
+
+33. Which Scikit-learn method splits data into training and testing sets?
+- `train_test_split()`
+- `split_data()`
+- `data_split()`
+- `train_split()`
+
+34. How do you load an image using `OpenCV`?
+- `cv2.imread()`
+- `cv2.load()`
+- `cv2.open()`
+- `cv2.read()`
+
+35. Which function in `PyTorch` computes the gradient of a tensor?
+- `backward()`
+- `gradient()`
+- `compute_grad()`
+- `calculate_gradient()`
+
+36. What type of operations can you perform with `OpenCV`?
+- Image and video processing
+- Data visualization
+- Hyperparameter tuning
+- Text classification
+
+37. In `Keras`, which method is used to compile a model?
+- `model.compile()`
+- `model.build()`
+- `model.fit()`
+- `model.train()`
+
+38. What is a `Convolutional Neural Network (CNN)` most commonly used for?
+- Image and video recognition
+- Time series forecasting
+- Text classification
+- Dimensionality reduction
+
+40. Which BERT-based model variant is specifically designed for question answering tasks?
+- `BERT-QA`
+- `BERT-Base`
+- `BERT-Large`
+- `BERT-For-Question-Answering`
+
+41. Which BERT-based model variant is optimized for long documents and large-scale data?
+- `Longformer`
+- `BERT-Base`
+- `BERT-Mini`
+- `BERT-For-Large-Documents`
+
+42. Which programming language is commonly used with `PySpark`?
+- Python
+- JavaScript
+- C++
+- Ruby
+
+43. What type of repositories does `GitHub` manage?
+- Source code repositories
+- Cloud storage repositories
+- Data processing repositories
+- Image editing repositories
+
+44. Which `AWS` service is designed for real-time data streaming?
+- Amazon Kinesis
+- Amazon RDS
+- Amazon EC2
+- Amazon S3
+
+45. NLP task?
+- Translation
+- Painting
+- Building
+- Dancing
+
+46. DataSci need?
+- Data
+- Paper
+- Fabric
+- Wood
+
+47. Deep Learn?
+- RNN
+- SSD
+- RAM
+- GPU
+
+48. Neural nets?
+- Bias
+- Truth
+- Fact
+- Lie
+
+49. Python type?
+- Dynamic
+- Static
+- Fixed
+- Random
+
+50. AI benefit?
+- Efficiency
+- Weight
+- Size
+- Color
+
+51. Which of the following is a type of clustering algorithm?
+- K-means
+- Linear Regression
+- Logistic Regression
+- Decision Tree
+
+52. What does 'ROC curve' stand for?
+- Receiver Operating Characteristic curve
+- Rate of Change curve
+- Random Overlap Curve
+- Regression Output Curve
+
+53. What is the purpose of 'feature scaling'?
+- Normalize the range of features
+- Increase model complexity
+- Enhance data visualization
+- Reduce dataset size
+
+54. Which Python library is commonly used for data visualization?
+- matplotlib
+- numpy
+- pandas
+- sklearn
+
+55. What does 'LSTM' stand for in neural networks?
+- Long Short-Term Memory
+- Linear Sequential Time Model
+- Logical Structural Temporal Model
+- Layered Short-Term Memory
+
+56. What is the purpose of 'dropout' in neural networks?
+- Prevent overfitting
+- Initialize weights
+- Optimize the network
+- Regularize the model
+
+57. What does 'SVM' stand for in machine learning?
+- Support Vector Machine
+- Supervised Variance Model
+- Sequential Vector Method
+- Structured Variable Model
+
+58. Which of the following is a common loss function for regression tasks?
+- Mean Squared Error
+- Cross-Entropy Loss
+- Binary Cross-Entropy
+- Categorical Cross-Entropy
+
+59. What is the purpose of an activation function in a neural network?
+- Introduce non-linearity
+- Initialize weights
+- Optimize the network
+- Regularize the model
+
+60. Which Python keyword is used to handle exceptions?
+- try
+- catch
+- handle
+- except
+
+61. Who is the father of cloud computing?
+- Sharon B. Codd
+- Edgar Frank Codd
+- J.C.R. Licklider
+- Charles Bachman
+
+62. Which of the following is not a type of cloud server?
+- Public Cloud Servers
+- Private Cloud Servers
+- Dedicated Cloud Servers
+- Merged Cloud Servers
+
+63. Which of the following are the features of cloud computing?
+- Security
+- Availability
+- Large Network Access
+- All of the mentioned
+
+64. Which of the following is a type of cloud computing service?
+- Service-as-a-Software (SaaS)
+- Software-and-a-Server (SaaS)
+- Software-as-a-Service (SaaS)
+- Software-as-a-Server (SaaS)
+
+65. Which of the following is an example of the cloud?
+- Amazon Web Services (AWS)
+- Dropbox
+- Cisco WebEx
+- All of the above
+
+67. Which of the following is an example of a PaaS cloud service?
+- Heroku
+- AWS Elastic Beanstalk
+- Windows Azure
+- All of the above
+
+68. Which of the following is an example of an IaaS Cloud service?
+- DigitalOcean
+- Linode
+- Rackspace
+- All of the above
+
+69. Which of the following is the Cloud Platform provided by Amazon?
+- AWS
+- Cloudera
+- Azure
+- All of the mentioned
+
+70. Into which expenditures does Cloud computing shifts capital expenditures?
+- local
+- operating
+- service
+- none of the mentioned
